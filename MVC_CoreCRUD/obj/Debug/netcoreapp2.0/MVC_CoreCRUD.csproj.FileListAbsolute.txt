@@ -1,0 +1,11 @@
+C:\Users\ilhandemirtepe\Source\Repos\MVC_CoreCRUD\MVC_CoreCRUD\obj\Debug\netcoreapp2.0\MVC_CoreCRUD.csprojAssemblyReference.cache
+C:\Users\ilhandemirtepe\Source\Repos\MVC_CoreCRUD\MVC_CoreCRUD\obj\Debug\netcoreapp2.0\MVC_CoreCRUD.csproj.CoreCompileInputs.cache
+C:\Users\ilhandemirtepe\Source\Repos\MVC_CoreCRUD\MVC_CoreCRUD\obj\Debug\netcoreapp2.0\MVC_CoreCRUD.AssemblyInfoInputs.cache
+C:\Users\ilhandemirtepe\Source\Repos\MVC_CoreCRUD\MVC_CoreCRUD\obj\Debug\netcoreapp2.0\MVC_CoreCRUD.AssemblyInfo.cs
+C:\Users\ilhandemirtepe\Source\Repos\MVC_CoreCRUD\MVC_CoreCRUD\bin\Debug\netcoreapp2.0\MVC_CoreCRUD.deps.json
+C:\Users\ilhandemirtepe\Source\Repos\MVC_CoreCRUD\MVC_CoreCRUD\bin\Debug\netcoreapp2.0\MVC_CoreCRUD.runtimeconfig.json
+C:\Users\ilhandemirtepe\Source\Repos\MVC_CoreCRUD\MVC_CoreCRUD\bin\Debug\netcoreapp2.0\MVC_CoreCRUD.runtimeconfig.dev.json
+C:\Users\ilhandemirtepe\Source\Repos\MVC_CoreCRUD\MVC_CoreCRUD\bin\Debug\netcoreapp2.0\MVC_CoreCRUD.dll
+C:\Users\ilhandemirtepe\Source\Repos\MVC_CoreCRUD\MVC_CoreCRUD\bin\Debug\netcoreapp2.0\MVC_CoreCRUD.pdb
+C:\Users\ilhandemirtepe\Source\Repos\MVC_CoreCRUD\MVC_CoreCRUD\obj\Debug\netcoreapp2.0\MVC_CoreCRUD.dll
+C:\Users\ilhandemirtepe\Source\Repos\MVC_CoreCRUD\MVC_CoreCRUD\obj\Debug\netcoreapp2.0\MVC_CoreCRUD.pdb
